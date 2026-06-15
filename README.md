@@ -3,3 +3,7 @@ Yes, Codex made this,(cause im not a scripter) but the whole premise is this is 
 Open:
 
 dist/AntiAFK-RBX.app
+
+DOES NOT WORK MINIMIZED, WINDOW HAS TO BE ON ANY DESKTOP WINDOW 
+
+(i recommend creating a new desktop window and then doing other things in a different desktop window)
